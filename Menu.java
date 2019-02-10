@@ -33,6 +33,7 @@ public class Menu {
                 breakFastMenu.add(food);
                 lunchMenu.add(food);
                 dinnerMenu.add(food);
+                break;
         }
     }
 
