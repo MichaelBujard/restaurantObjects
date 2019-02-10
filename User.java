@@ -19,7 +19,7 @@ public class User {
     public void setPassWord(String passWord) {this.passWord = passWord;}
     public void setCity(Stirng city) {this.city = city;}
     public void setzipCode(String zipCode) {this.zipCode = zipCode;}
-    public void setStreetNumber(String streetNumber) {this.streetNumber =streetNumber;}
+    public void setStreetNumber(String streetNumber) {this.streetNumber = streetNumber;}
 
     private void setAddress(String city, String zipcode, String streetNumber) {
         this.address = city + "-" + zipcode + "-" + streetNumber;
