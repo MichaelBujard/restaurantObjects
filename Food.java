@@ -24,7 +24,6 @@ public class Food {
 
     //public getters
     public String getName() {return this.name;}
-    public String getPrice() {return this.price + "$";}
-    
+    public String getPrice() {return this.price + "$";} 
 
 }
