@@ -5,3 +5,5 @@ These are java classes for several restaurant objects for future use :
   - A Beverage class
   - A menu class
   - Just made a change
+
+Note that this code was not used in the final DineRush application for the Software Engineering final project of Spring 2019. This code was written by Michael Bujard.
